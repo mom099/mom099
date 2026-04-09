@@ -1,4 +1,4 @@
-Senior Software Engineer
+**Senior Software Engineer**
 
 Welcome to my GitHub! I'm a Senior Software Engineer with over 10 years of experience in software development and AI. I specialize in building scalable, high-performance applications using a wide variety of modern technologies.
 
