@@ -1,3 +1,5 @@
+![Profile Picture](https://github.com/mom099/mom099/blob/7188ef35c8ecbdc0f58cb41dcebeb144760f8d81/baby%20rabbit.png)
+
 ## **Senior Software Engineer**
 
 Welcome to my GitHub! I'm a Senior Software Engineer with over 10 years of experience in software development and AI. I specialize in building scalable, high-performance applications using a wide variety of modern technologies.
